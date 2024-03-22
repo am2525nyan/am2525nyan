@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saki0411&layout=compact&langs_count=6)](https://github.com/saki0411/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saki0411&show_icons=true)
+
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,blender,figma,notion,ps,ai,pr,ae,unity)](https://skillicons.dev)
+
+
 <!--
 **saki0411/saki0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
