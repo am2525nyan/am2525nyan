@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saki0411&layout=compact&langs_count=6)](https://github.com/saki0411/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am2525nyan&layout=compact&langs_count=6)](https://github.com/saki0411/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saki0411&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am2525nyan&show_icons=true)
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,blender,figma,notion,ps,ai,pr,ae,unity)](https://skillicons.dev)
 
