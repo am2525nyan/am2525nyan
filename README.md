@@ -1,8 +1,11 @@
 ### Hi there 👋
+<a href="https://github.com/tocoteron">
+ <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=am2525nyan&count_private=true&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/am2525nyan">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am2525nyan&layout=compact&theme=buefy" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am2525nyan&layout=compact&langs_count=6)](https://github.com/saki0411/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am2525nyan&show_icons=true)
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,blender,figma,notion,ps,ai,pr,ae,unity)](https://skillicons.dev)
 
