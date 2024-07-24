@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/tocoteron">
- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=am2525nyan&count_private=true&show_icons=true&theme=buefy" />
+ <img align="left" height="150px" src="github-readme-stats-clone-2.vercel.app/api?username=am2525nyan&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/am2525nyan">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am2525nyan&layout=compact&theme=buefy" />
+  <img align="left" height="150px" src="github-readme-stats-clone-2.vercel.app/api/top-langs/?username=am2525nyan&layout=compact&theme=buefy" />
 </a>
 
 
