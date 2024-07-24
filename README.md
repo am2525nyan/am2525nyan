@@ -7,7 +7,7 @@
 </a>
 
 
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,blender,figma,notion,ps,ai,pr,ae,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,firebase,blender,figma,notion,ps,ai,pr,ae,unity)](https://skillicons.dev)
 
 
 <!--
