@@ -1,4 +1,16 @@
 ### Hi there 👋
+
+```
+  #####     ##     ###  ##   ####
+ ##   ##   ####     ##  ##    ##
+ #        ##  ##    ## ##     ##
+  #####   ##  ##    ####      ##
+      ##  ######    ## ##     ##
+ ##   ##  ##  ##    ##  ##    ##
+  #####   ##  ##   ###  ##   ####
+
+```
+
 <a href="https://github.com/tocoteron">
  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=am2525nyan&count_private=true&show_icons=true&theme=buefy" />
 </a>
